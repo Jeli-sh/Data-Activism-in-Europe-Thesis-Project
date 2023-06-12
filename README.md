@@ -1,4 +1,9 @@
 # Data-Activism-in-Europe-Thesis-Project
+
+This is a README file for this repository of the Thesis project _Unravelling Resistance in the age of the Data Revolution. 
+
+This Repository contains a notebook in which a webscraper is built to collect newsletters of the European Digital Rights Initiative (EDRi). These newsletters are analyzed using the webtool Voyant. The Repository contains the dataset. Moreover, in this file a list of all the interactive visualizations can be found with links that redirect you to the Voyant tool in which the visualizations can be viewed. 
+
 Voyant Dashboard: https://voyant-tools.org/?corpus=c54bf69e97d4310d6d0efbbb8120e7cc
 
 The Corpus: https://voyant-tools.org/?corpus=c54bf69e97d4310d6d0efbbb8120e7cc&skipToDocId=886b00726f32b67b42acd41bad02e409&view=Reader
